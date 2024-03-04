@@ -1,0 +1,4 @@
+flask-restplus==0.13.0
+requests==2.31.0
+MarkupSafe==2.0.1
+Flask-Cors==3.0.8
